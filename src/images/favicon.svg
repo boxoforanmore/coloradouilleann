@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.200163;paint-order:stroke fill markers"
+       id="rect28"
+       width="299.79813"
+       height="100.06336"
+       x="-50.260399"
+       y="102.37556" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.2;paint-order:stroke fill markers"
+       d="M 99.722206,102.35693 24.724468,22.355505 -50.28003,102.35425"
+       id="path28" />
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.2;paint-order:stroke fill markers"
+       d="M 249.53314,102.3495 174.5354,22.34807 99.530896,102.34682"
+       id="path28-1" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline"
+     transform="translate(2.7189041,-0.3786603)">
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.2;paint-order:stroke fill markers"
+       id="path12"
+       cx="98.257416"
+       cy="101.35498"
+       r="75.87632" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.19439;paint-order:stroke fill markers"
+       id="path13"
+       cx="98.257416"
+       cy="101.35497"
+       r="71.73288" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.198752;paint-order:stroke fill markers"
+       id="path14"
+       cx="97.842804"
+       cy="101.35497"
+       r="65.925949" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.196256;paint-order:stroke fill markers"
+       id="path15"
+       cx="97.842804"
+       cy="101.35497"
+       r="65.097946" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.147436;paint-order:stroke fill markers"
+       id="path16"
+       cx="97.842804"
+       cy="101.35498"
+       r="58.073742" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.187165;paint-order:stroke fill markers"
+       id="path17"
+       cx="97.842804"
+       cy="101.35497"
+       r="54.322258" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.242086;paint-order:stroke fill markers"
+       id="path18"
+       cx="97.842804"
+       cy="101.35497"
+       r="43.663063" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.148806;paint-order:stroke fill markers"
+       id="path19"
+       cx="97.842804"
+       cy="101.35497"
+       r="42.880455" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.240428;paint-order:stroke fill markers"
+       id="path20"
+       cx="97.809937"
+       cy="101.48036"
+       r="31.928289" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.21155;paint-order:stroke fill markers"
+       id="path21"
+       cx="97.809937"
+       cy="101.48036"
+       r="28.09351" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.242918;paint-order:stroke fill markers"
+       id="path22"
+       cx="97.809921"
+       cy="101.48036"
+       r="23.843685" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.203375;paint-order:stroke fill markers"
+       id="path23"
+       cx="97.809921"
+       cy="101.48036"
+       r="23.093615" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.166203;paint-order:stroke fill markers"
+       id="path24"
+       cx="97.809906"
+       cy="101.48036"
+       r="16.953453" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.119664;paint-order:stroke fill markers"
+       id="path25"
+       cx="97.809921"
+       cy="101.48036"
+       r="13.127505" />
+  </g>
+</svg>
